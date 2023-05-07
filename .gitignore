@@ -1,0 +1,6 @@
+# ----------------------------
+# Python
+# ----------------------------
+python/venv
+python/*/.mypy_cache
+python/*/__pycache__
