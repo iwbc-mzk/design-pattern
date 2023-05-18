@@ -2,5 +2,5 @@
 # Python
 # ----------------------------
 python/venv
-python/*/.mypy_cache
-python/*/__pycache__
+.mypy_cache
+__pycache__
